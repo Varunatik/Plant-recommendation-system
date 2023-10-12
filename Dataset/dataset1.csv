@@ -1,0 +1,31 @@
+S.No.,Category,Humidity LL,Humidity UL,Temperature LL,Temperature UL,Plants
+1,Vegetables,65,70,0,10,Garlic
+2,Vegetables,70,100,21,30,Radish
+3,Vegetables,95,100,15,22,Carrots 
+4,Vegetables,50,60,15,18,Lettuce
+5,Vegetables,60,70,10,30,Peas
+6,Vegetables,50,70,21,24,Tomato 
+7,Vegetables,80,90,15,20,Potato 
+8,Vegetables,45,55,10,29,Lemon
+9,Vegetables,65,75,20,25,Chilli
+10,Vegetables,90,95,13,21,Brinjal
+11,Decorative ,85,95,18,20,Marigold
+12,Decorative ,60,70,15,28,Rose
+13,Decorative ,,,9,11,Hyacinth
+14,Decorative ,40,50,4,29,Snake Plant
+15,Decorative ,70,80,18,23,Begonia
+16,Decorative ,45,55,4,26,Bougainvillea
+17,Decorative ,80,90,15,30,Money plant
+18,Decorative ,30,40,20,30,Lavender
+19,Decorative ,30,50,18,24,Jade Plant
+20,Decorative ,60,70,30,35,Adenium
+21,Medicinal,30,40,13,27,Aloe vera
+22,Medicinal,90,100,25,35,Fenugreek
+23,Medicinal,60,70,23,29,Ginger
+24,Medicinal,90,100,20,40,Mint
+25,Medicinal,80,90,25,40,Tulsi
+26,Medicinal,30,50,17,27,Coriander
+27,Medicinal,50,60,18,30,Curry leaf
+28,Medicinal,60,70,-10,-5,Gotu Kola
+29,Medicinal,60,70,15,21,Thyme
+30,Medicinal,45,55,20,30,Rosemary 
